@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/inventory") // This is the base URL for your module
-@CrossOrigin(origins = "*") // Allows your React frontend to call these APIs
+@CrossOrigin(origins = "http://localhost:5173") // Allows your React frontend to call these APIs
 public class InventoryController {
 
     private final InventoryService inventoryService;
