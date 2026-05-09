@@ -1,2 +1,2 @@
 # ByteFlow-SCM-System
-This repository contains the Inventory Management, Order and Billing Management, Logistics and Shipment Management, User Management modules for a Supply Chain Management system.
+This repository contains the Supply Chain Management System. it includes Inventory Management, Order and Billing Management, Logistics and Shipment Management, User Management modules for a Supply Chain Management system.
